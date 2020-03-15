@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   z-index: 997;
   transition: all 0.5s;
   padding: 20px 0;
-  background: #1e4356;
+  background: black;
 }
 
 #header.header-transparent {
@@ -221,7 +221,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   left: -260px;
   width: 260px;
   padding-top: 18px;
-  background: #1e4356;
+  background: black;
   transition: 0.4s;
 }
 
@@ -1035,7 +1035,7 @@ section {
 }
 
 .service-details .card-title a {
-  color: #1e4356;
+  color: black;
   transition: 0.3s;
 }
 
@@ -1133,7 +1133,7 @@ section {
 }
 
 .pricing .get-started-btn {
-  background: #1e4356;
+  background: black;
   display: inline-block;
   padding: 6px 30px;
   border-radius: 20px;
@@ -1218,7 +1218,7 @@ section {
 }
 
 .portfolio .portfolio-item {
-  background: #1e4356;
+  background: black;
   overflow: hidden;
   min-height: 200px;
   position: relative;
@@ -2099,7 +2099,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #1e4356;
+  background: black;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
